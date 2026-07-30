@@ -1,0 +1,247 @@
+{
+   "apps":{
+      "status":true,
+      "featured_categories":"Neon Miami Nights, Urban Street Racing, Gangster Lifestyle, Vice Sunset Vibes, Cyber Vaporwave",
+      "show_wallpaper_name":true,
+      "show_wallpaper_category":true,
+      "show_favorite_button_in_wallpaper_list":true,
+      "enable_slider_wallpaper":false,
+      "enable_rtl_mode":false,
+      "enable_exit_dialog":true,
+      "enable_vpn_access":false,
+      "enable_dark_mode_as_default_theme":true,
+      "enable_more_apps":true,
+      "redirect_url":"",
+      "privacy_policy_url":""
+   },
+   "ads":{
+      "mainAds":"admob",
+      "backupAds":"none",
+      "adStatus":true,
+      "interstitialInterval":3,
+      "bannerStatus":true,
+      "interstitialStatus":true,
+      "nativeStatus":true,
+      "rewardedStatus":true,
+      "appOpenStatus":false,
+      "mainAdmobAppId":"ca-app-pub-4631404232937485~2345802163",
+      "mainAdManagerAppId":"0",
+      "mainStartappAppId":"0",
+      "mainUnityGameId":"0",
+      "mainIronsourceAppKey":"0",
+      "mainApplovinSdkKey":"0",
+      "mainBannerId":"ca-app-pub-4631404232937485/1394582493",
+      "mainInterstitialId":"ca-app-pub-4631404232937485/9668658335",
+      "mainNativeId":"ca-app-pub-4631404232937485/7042494990",
+      "mainRewardedId":"ca-app-pub-4631404232937485/5729413326",
+      "mainAppOpenId":"ca-app-pub-4631404232937485/4416331656",
+      "backupAdmobAppId":"0",
+      "backupAdManagerAppId":"0",
+      "backupStartappAppId":"0",
+      "backupUnityGameId":"0",
+      "backupIronsourceAppKey":"0",
+      "backupApplovinSdkKey":"0",
+      "backupBannerId":"0",
+      "backupInterstitialId":"0",
+      "backupNativeId":"0",
+      "backupRewardedId":"0",
+      "backupAppOpenId":"0"
+   },
+   "categories":[
+      {
+         "category_id":1,
+         "category_name":"Neon Miami Nights",
+         "category_image":"Neon Miami Nights.jpg",
+         "prompt":"Cinematic wide shot of a glowing neon-lit Miami street at midnight, synthwave colors, magenta and cyan lights reflecting on wet pavement, retro-futuristic city vibes, 8k resolution, masterpiece, highly detailed --ar 2:1"
+      },
+      {
+         "category_id":2,
+         "category_name":"Urban Street Racing",
+         "category_image":"Urban Street Racing.jpg",
+         "prompt":"Two highly customized luxury sports cars drifting on a Miami coastal highway, neon underglow, motion blur, nighttime street racing aesthetic, cinematic lighting, 8k, photorealistic --ar 2:1"
+      },
+      {
+         "category_id":3,
+         "category_name":"Gangster Lifestyle",
+         "category_image":"Gangster Lifestyle.jpg",
+         "prompt":"A modern luxury safehouse interior overlooking a neon city, stacks of cash on a glass table, cinematic lighting, edgy mafia aesthetic, urban crime city vibes, grand auto style, 8k --ar 2:1"
+      },
+      {
+         "category_id":4,
+         "category_name":"Vice Sunset Vibes",
+         "category_image":"Vice Sunset Vibes.jpg",
+         "prompt":"Breathtaking Miami sunset over Ocean Drive, pastel pink and orange sky, silhouettes of palm trees, retro 1980s aesthetic, synthwave landscape, beautiful scenery, 8k resolution --ar 2:1"
+      },
+      {
+         "category_id":5,
+         "category_name":"Cyber Vaporwave",
+         "category_image":"Cyber Vaporwave.jpg",
+         "prompt":"Vaporwave grid landscape with a giant glowing synth sun setting, classical roman statues with digital glitch effects, retrowave aesthetics, cyan and pink color palette, 8k --ar 2:1"
+      }
+   ],
+   "wallpapers":[
+      {
+         "wallpaper_id":1,
+         "category_name":"Neon Miami Nights",
+         "wallpaper_name":"Neon Downtown Crosstown",
+         "wallpaper_thumbnail":"Neon Downtown Crosstown.jpg",
+         "wallpaper_url":"Neon Downtown Crosstown.jpg",
+         "prompt":"A view down a busy Miami street at night, towering buildings glowing with neon signs, cyberpunk vibes, magenta and cyan, hyperrealistic, mobile wallpaper --ar 9:16"
+      },
+      {
+         "wallpaper_id":2,
+         "category_name":"Neon Miami Nights",
+         "wallpaper_name":"Midnight Drive Alley",
+         "wallpaper_thumbnail":"Midnight Drive Alley.jpg",
+         "wallpaper_url":"Midnight Drive Alley.jpg",
+         "prompt":"A dark, atmospheric city alleyway illuminated by a flickering pink neon sign, wet asphalt reflecting the light, cinematic urban aesthetic, mobile wallpaper --ar 9:16"
+      },
+      {
+         "wallpaper_id":3,
+         "category_name":"Neon Miami Nights",
+         "wallpaper_name":"Glowing Motel Sign",
+         "wallpaper_thumbnail":"Glowing Motel Sign.jpg",
+         "wallpaper_url":"Glowing Motel Sign.jpg",
+         "prompt":"A retro vintage motel sign glowing brightly in neon pink and teal against a dark night sky, Miami vice vibes, cinematic lighting, highly detailed --ar 9:16"
+      },
+      {
+         "wallpaper_id":4,
+         "category_name":"Neon Miami Nights",
+         "wallpaper_name":"Synthwave Cityscape",
+         "wallpaper_thumbnail":"Synthwave Cityscape.jpg",
+         "wallpaper_url":"Synthwave Cityscape.jpg",
+         "prompt":"A sprawling metropolis at night viewed from above, stylized in 1980s synthwave colors, glowing neon grids, retrowave art style, mobile wallpaper --ar 9:16"
+      },
+      {
+         "wallpaper_id":5,
+         "category_name":"Neon Miami Nights",
+         "wallpaper_name":"Rain Puddles Reflection",
+         "wallpaper_thumbnail":"Rain Puddles Reflection.jpg",
+         "wallpaper_url":"Rain Puddles Reflection.jpg",
+         "prompt":"Close up of wet street pavement at night, reflecting vibrant neon lights from the city, cinematic depth of field, rain drops, hyper-detailed --ar 9:16"
+      },
+      {
+         "wallpaper_id":6,
+         "category_name":"Neon Miami Nights",
+         "wallpaper_name":"Neon Liquor Store",
+         "wallpaper_thumbnail":"Neon Liquor Store.jpg",
+         "wallpaper_url":"Neon Liquor Store.jpg",
+         "prompt":"A glowing retro liquor store on a corner street in Miami at night, vibrant neon signs on the windows, urban aesthetic, cinematic night photography --ar 9:16"
+      },
+      {
+         "wallpaper_id":7,
+         "category_name":"Neon Miami Nights",
+         "wallpaper_name":"Vice Strip Cruising",
+         "wallpaper_thumbnail":"Vice Strip Cruising.jpg",
+         "wallpaper_url":"Vice Strip Cruising.jpg",
+         "prompt":"View from inside a car looking out at a neon-lit strip in a tropical city at night, dashboard glowing, synthwave vibes, first-person perspective --ar 9:16"
+      },
+      {
+         "wallpaper_id":8,
+         "category_name":"Neon Miami Nights",
+         "wallpaper_name":"Pink Flamingo Diner",
+         "wallpaper_thumbnail":"Pink Flamingo Diner.jpg",
+         "wallpaper_url":"Pink Flamingo Diner.jpg",
+         "prompt":"A 1980s style retro diner lit up in pink neon lights, a glowing flamingo sign on the roof, palm trees in the background, night time --ar 9:16"
+      },
+      {
+         "wallpaper_id":9,
+         "category_name":"Neon Miami Nights",
+         "wallpaper_name":"Retro Arcade Night",
+         "wallpaper_thumbnail":"Retro Arcade Night.jpg",
+         "wallpaper_url":"Retro Arcade Night.jpg",
+         "prompt":"Exterior of a retro arcade in Miami, glowing neon lights, dark moody atmosphere, vintage video game aesthetic, highly detailed --ar 9:16"
+      },
+      {
+         "wallpaper_id":10,
+         "category_name":"Neon Miami Nights",
+         "wallpaper_name":"Cyber Cafe Exterior",
+         "wallpaper_thumbnail":"Cyber Cafe Exterior.jpg",
+         "wallpaper_url":"Cyber Cafe Exterior.jpg",
+         "prompt":"A futuristic yet retro cyber cafe on a city street, glowing blue and magenta neon lights, dark alley aesthetic, cinematic lighting --ar 9:16"
+      },
+      {
+         "wallpaper_id":11,
+         "category_name":"Urban Street Racing",
+         "wallpaper_name":"Tuner Garage Midnight",
+         "wallpaper_thumbnail":"Tuner Garage Midnight.jpg",
+         "wallpaper_url":"Tuner Garage Midnight.jpg",
+         "prompt":"A highly modified sports car parked inside a dimly lit urban garage, neon lights casting shadows, tools around, street racing aesthetic, 8k --ar 9:16"
+      },
+      {
+         "wallpaper_id":12,
+         "category_name":"Urban Street Racing",
+         "wallpaper_name":"Neon Underglow Drift",
+         "wallpaper_thumbnail":"Neon Underglow Drift.jpg",
+         "wallpaper_url":"Neon Underglow Drift.jpg",
+         "prompt":"A sports car drifting around a corner at night, bright pink and cyan neon underglow lighting up the smoke, motion blur, epic street racing --ar 9:16"
+      },
+      {
+         "wallpaper_id":13,
+         "category_name":"Urban Street Racing",
+         "wallpaper_name":"Highway Chase Sunset",
+         "wallpaper_thumbnail":"Highway Chase Sunset.jpg",
+         "wallpaper_url":"Highway Chase Sunset.jpg",
+         "prompt":"Two exotic cars racing down a coastal highway during a vibrant Miami sunset, high speed, palm trees blurring past, cinematic action shot --ar 9:16"
+      },
+      {
+         "wallpaper_id":14,
+         "category_name":"Urban Street Racing",
+         "wallpaper_name":"Street Meet Skyline",
+         "wallpaper_thumbnail":"Street Meet Skyline.jpg",
+         "wallpaper_url":"Street Meet Skyline.jpg",
+         "prompt":"A row of custom luxury cars parked at a midnight street meet, glowing city skyline in the background, urban car culture vibe, photorealistic --ar 9:16"
+      },
+      {
+         "wallpaper_id":15,
+         "category_name":"Urban Street Racing",
+         "wallpaper_name":"Turbo Exhaust Fire",
+         "wallpaper_thumbnail":"Turbo Exhaust Fire.jpg",
+         "wallpaper_url":"Turbo Exhaust Fire.jpg",
+         "prompt":"Close up of a modified car exhaust shooting blue flames at night, neon street lights in the blurred background, aggressive urban racing style --ar 9:16"
+      },
+      {
+         "wallpaper_id":16,
+         "category_name":"Urban Street Racing",
+         "wallpaper_name":"Midnight Run Miami",
+         "wallpaper_thumbnail":"Midnight Run Miami.jpg",
+         "wallpaper_url":"Midnight Run Miami.jpg",
+         "prompt":"A sleek black sports car speeding through downtown Miami at night, neon signs reflecting on the shiny car paint, cinematic, 8k --ar 9:16"
+      },
+      {
+         "wallpaper_id":17,
+         "category_name":"Urban Street Racing",
+         "wallpaper_name":"Custom Rims Glow",
+         "wallpaper_thumbnail":"Custom Rims Glow.jpg",
+         "wallpaper_url":"Custom Rims Glow.jpg",
+         "prompt":"Extreme close up of custom chrome rims on a sports car, illuminated by neon pink street lights, wet asphalt, hyper-detailed, mobile wallpaper --ar 9:16"
+      },
+      {
+         "wallpaper_id":18,
+         "category_name":"Urban Street Racing",
+         "wallpaper_name":"Start Line Tension",
+         "wallpaper_thumbnail":"Start Line Tension.jpg",
+         "wallpaper_url":"Start Line Tension.jpg",
+         "prompt":"Two street racing cars lined up at a makeshift start line on an empty bridge at night, headlights illuminating the fog, grand auto aesthetic --ar 9:16"
+      },
+      {
+         "wallpaper_id":19,
+         "category_name":"Urban Street Racing",
+         "wallpaper_name":"Underground Parking Race",
+         "wallpaper_thumbnail":"Underground Parking Race.jpg",
+         "wallpaper_url":"Underground Parking Race.jpg",
+         "prompt":"A sleek street racing car parked in a grimy underground parking garage lit by flickering fluorescent lights, urban gangster vibe --ar 9:16"
+      },
+      {
+         "wallpaper_id":20,
+         "category_name":"Urban Street Racing",
+         "wallpaper_name":"Speed Blur Highway",
+         "wallpaper_thumbnail":"Speed Blur Highway.jpg",
+         "wallpaper_url":"Speed Blur Highway.jpg",
+         "prompt":"Abstract representation of high speed street racing, light trails from car taillights on a neon city highway, synthwave colors --ar 9:16"
+      }
+   ],
+   "more_apps":[
+      
+   ]
+}
