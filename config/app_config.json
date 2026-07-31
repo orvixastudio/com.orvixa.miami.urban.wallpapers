@@ -242,5 +242,17 @@
       }
    ],
    "more_apps":[
+       {
+         "id": 1,
+         "title": "Material Palette Wallpapers 4K",
+         "image": "https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.material.palette.wallpapers@main/ic_launcher.png",
+         "url": "https://play.google.com/store/apps/details?id=com.orvixa.material.palette.wallpapers"
+       },
+       {
+         "id": 2,
+         "title": "Retro Y2K Aesthetic Wallpaper",
+         "image": "https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.y2kwallpaper@main/ic_launcher.png",
+         "url": "https://play.google.com/store/apps/details?id=com.orvixa.y2kwallpaper"
+       }      
    ]
 }
